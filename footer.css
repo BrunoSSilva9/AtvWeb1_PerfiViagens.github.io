@@ -1,0 +1,13 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+.termos-privacidade {
+  display: flex;
+  gap: 20px;
+  color: #000000;
+}
